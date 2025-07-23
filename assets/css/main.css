@@ -13,14 +13,14 @@
   --background-color: #ffffff;
   --default-color: #314862;
   --heading-color: #13447f;
-  --accent-color: #5BC0EB;
+  --accent-color: #1a38ce;
   --surface-color: #ffffff;
   --contrast-color: #ffffff;
 }
 
 :root {
   --nav-color: #314862;
-  --nav-hover-color: #5BC0EB;
+  --nav-hover-color: #1a38ce;
   --nav-mobile-background-color: #11427d;
   --nav-dropdown-background-color: #5BC0EB;
   --nav-dropdown-color: #acc4e0;
@@ -826,8 +826,8 @@ section,
 
 @media (max-width: 768px) {
   .hero .floating-card.card-2 {
-    top: 70%;
-    right: -10%;
+    top: 40%;
+    right: -17%;
   }
 }
 
@@ -1539,7 +1539,7 @@ section,
   .card-body
   .achievements
   li::before {
-  content: "âœ“";
+  content: "*";
   position: absolute;
   left: 0;
   top: 0;
