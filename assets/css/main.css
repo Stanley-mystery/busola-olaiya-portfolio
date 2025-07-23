@@ -22,7 +22,7 @@
   --nav-color: #314862;
   --nav-hover-color: #1a38ce;
   --nav-mobile-background-color: #11427d;
-  --nav-dropdown-background-color: #5BC0EB;
+  --nav-dropdown-background-color: #1a38ce;
   --nav-dropdown-color: #acc4e0;
   --nav-dropdown-hover-color: #ffffff;
 }
@@ -33,11 +33,11 @@
 }
 
 .dark-background {
-  --background-color: #5BC0EB;
+  --background-color: #1a38ce;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --accent-color: #afcdf1;
-  --surface-color: #2973cc;
+  --surface-color: #1a38ce;
   --contrast-color: #ffffff;
 }
 
